@@ -5,6 +5,6 @@ view your leaves and the manager will approve or reject
 your leave.
 ## USED TECHNOLOGIES
 
-- ### Frontend : React
-- ### Backend : Java , Spring boot
+- ### Frontend : React.Js Framework 
+- ### Backend : Java , Spring boot Framework
 - ### Database : Mysql
